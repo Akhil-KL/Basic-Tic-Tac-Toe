@@ -79,7 +79,7 @@ body{
 }
 
 #results{
-    font-family: "Roboto Mono", cursive;
+    font-weight: 400;
 }
 
 #imgbox img{
